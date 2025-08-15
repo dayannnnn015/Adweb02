@@ -1,0 +1,56 @@
+body{
+    background-color: gray;
+}
+#Blue{
+    margin-top: 50px;
+    color: bisque;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+img{
+    width: 250px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 10px auto;
+}
+
+#white{
+    text-align: center;
+    font-size: 35px;
+    color: bisque;
+}
+
+.list{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.918);
+    margin: 20px 10px;
+    text-align: left;
+}
+
+.box{
+    width: 400px;
+    padding: 30px;
+    margin: 50px auto; 
+    border: 3px solid #3d3f42;
+    border-radius: 8px;
+    background-color: #646c72;
+}
+
+
+button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #4a4b4d;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 35px;
+    cursor: pointer;
+    box-shadow: #646c72;
+}
+
